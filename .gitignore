@@ -1,0 +1,4 @@
+logs/*
+dags/__pycache__
+mydata/*
+py_env/
